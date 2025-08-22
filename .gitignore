@@ -1,0 +1,4 @@
+venv/
+logs/
+AMIME_RECOMMENDER.egg-ingo/
+.env
